@@ -35,8 +35,8 @@ public class Test {
 
         add(x, y)
         sub(x, y)
-        mul(x, y);
-        div(x, y);
+        mul(x, y)
+        div(x, y)
     }
 }
 
