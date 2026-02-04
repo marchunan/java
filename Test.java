@@ -29,7 +29,7 @@ public class Test {
     }
 
     // Main method
-    public static void main(String[] args) 
+    public static void main(String[] args) {
         int x = 589;
         int y = 10;
 
